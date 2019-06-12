@@ -8,10 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-表头|lili|条目丽丽二
-:---:|:---:|:---:
-项目|项目一|项目二
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
